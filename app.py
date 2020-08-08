@@ -14,7 +14,7 @@ from name import validate_name
 app = Flask(__name__)
 
 # PUT YOUR INFORMATION HERE
-CAPTAIN_EMAIL = os.environ.get("CAPTAIN_EMAIL")
+CAPTAIN_EMAIL = os.environ.get("CAPTAIN_EMAIL", "")
 SALT = "d839bd6a611841a292ef359a73a488c2"
 
 
