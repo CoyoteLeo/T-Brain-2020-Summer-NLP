@@ -37,7 +37,7 @@ sacremoses==0.0.43
 sentencepiece==0.1.91
 six==1.15.0
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.7.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 tokenizers==0.8.1rc1
